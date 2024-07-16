@@ -72,7 +72,7 @@ export default function Tech() {
           <Tool title="Laravel Framework">
           Within the Laravel ecosystem l I have worked with the following: Horizon,Sail,Sanctum,Jetstream,Breeze,Cashier,Socialite,Nova and Forge.
           Likewise within the framework I have extensive experience with Eloquent ORM,Database Query, Artisan, Artisan Commands, Routing, Middleware, 
-          API, Redis, Storage, UnitTesting,Blade,Authentication,Broadcasting, and Authorization. I'm sure I'm missing a few things but you get the idea.
+          API, Redis, Storage, UnitTesting,Blade,Authentication,Broadcasting, and Authorization. I`&apos;`m sure I`&apos;`m missing a few things but you get the idea.
           </Tool>
         </ToolsSection>
         <ToolsSection title="Architecture">
