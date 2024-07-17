@@ -64,15 +64,15 @@ export default function Tech() {
         <ToolsSection title="Frontend Development">
           <Tool title="Frontend Experience">
             I have over 12 years experience with front ent development where I have worked with HTML, CSS, JavaScript, jQuery, Vue ( versions 2 and 3 (TS ) VueRouter, VueX,
-             Pinia,Option AIP,Composition API), Bootstrap, Tailwind CSS, Node.js, and 
-            this particular site is built with React and Typescript....... Where has typescript been all my life?!
+            Pinia,Option AIP,Composition API), Bootstrap, Tailwind CSS, Node.js, and 
+            this particular site is built with Next.js React and TypeScipt....... Where has TypeScipt been all my life?!
           </Tool>
         </ToolsSection>
         <ToolsSection title="Backend Development">
           <Tool title="Laravel Framework">
-          Within the Laravel ecosystem l I have worked with the following: Horizon,Sail,Sanctum,Jetstream,Breeze,Cashier,Socialite,Nova and Forge.
-          Likewise within the framework I have extensive experience with Eloquent ORM,Database Query, Artisan, Artisan Commands, Routing, Middleware, 
-          API, Redis, Storage, UnitTesting,Blade,Authentication,Broadcasting, and Authorization. I`&apos;`m sure I`&apos;`m missing a few things but you get the idea.
+            Within the Laravel ecosystem I have worked with the following: Horizon,Sail,Sanctum,Jetstream,Breeze,Cashier,Socialite,Nova and Forge.
+            Likewise within the framework I have extensive experience with Eloquent ORM,Database Query, Artisan, Artisan Commands, Routing, Middleware, 
+            API, Redis, Storage,UnitTesting,Blade,Authentication,Broadcasting,and Authorization... Pretty sure I am missing a few things but you get the idea.
           </Tool>
         </ToolsSection>
         <ToolsSection title="Architecture">
@@ -102,9 +102,9 @@ export default function Tech() {
         </ToolsSection>
         <ToolsSection title="Programming Languages">
           <Tool title="">
-          I have primarily worked with PHP, JavaScript, HTML, CSS, Vue and MySql and most recently TypeScript. 
-          Additionally I have dabbled lightly in Python,Java,Objective-C,C, and .Net. In a nutshell I pick up any language very quickly.. For example I am building this site in React,
-          which I have limited professional experience with, but wanted to get my feet wet. 
+            I have primarily worked with PHP, JavaScript, HTML, CSS, Vue and MySql and most recently TypeScipt. 
+            Additionally I have dabbled lightly in Python,Java,Objective-C,C, and .Net. In a nutshell I pick up any language very quickly.. For example I am building this site in React,
+            which I have limited professional experience with, but wanted to get my feet wet. 
           </Tool>
         </ToolsSection>
         <ToolsSection title="IDE">
