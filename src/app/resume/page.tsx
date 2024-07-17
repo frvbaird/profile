@@ -82,6 +82,13 @@ export default function Resume() {
           />
           <Appearance
             href="#"
+            title="CIO / Software Architect"
+            employer="Soshemo | Cincinnati, OH (remote)"
+            description="This is/was a passion project together with two other partners. Soshemo is a reporting and communication  tool for at-risk kids who may have social emotional issues where inter-district personnel can share information with the intent of getting resources to those students in need. Too often students move from grade to grade where there is a disconnect from teacher to teacher and school to school, particularly for transient families and social emotionally challenged  kids, Soshemo aims to mitigate these at-risk kids by creating a reporting and commutation portal where staff can track the success of these challenged students. In this role I acted as the Software Architect where I designed, built, and deployed everything from the code to the cloud. This was a LAMP stack project with vanilla php."
+            date="October 2018 -"
+          />
+          <Appearance
+            href="#"
             title="Lead PHP Developer"
             employer="BlueSky Creative | Cincinnati, OH (remote)"
             description="While working at BlueSky I had my hands in many project development phases including software engineering, project management and of course PHP development. Primarily, I developed various marketing and survey solutions for our customers. Additionally, I provisioned, and maintained cloud instances (AWS) while also handling domain procurement and control (DNS,SSL). I also had the opportunity to be the lead software engineer on key projects overseeing a team of developers and infrastructure personnel using an Agile methodology. Most of the solutions at BlueSky were built on a LEMP or LAMP stack using the Laravel framework (PHP) with a mix of a Laravel blade, Vue.js, Bootstrap, and Tailwind CSS on the frontend."
